@@ -1,2 +1,2 @@
 variable = "value"
-print(variable)
+print("prefix", variable)
